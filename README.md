@@ -46,11 +46,11 @@ Ao rodar o script pela primeira vez, uma janela será aberta para autorizar a co
 ## 📂 Estrutura do Projeto  
 
 ```
-📂 AutomacaoPython
+📂 AutomacaoComPython
 │── 📄 main.py           # Código principal
 │── 📄 requirements.txt  # Dependências do projeto
 │── 📄 README.md         # Documentação do projeto
-│── 📄 credentials.json  # Credenciais da API do Gmail
+│── 📄 credentials.json  # Credenciais da API do Gmail 
 │── 📄 token.json        # Token de autenticação
 │── 📄 emails.xlsx       # Planilha com e-mails
 ```
@@ -62,4 +62,4 @@ Ao rodar o script pela primeira vez, uma janela será aberta para autorizar a co
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.  
 
 📌 **Desenvolvido por**: [Carlos Eduardo Zamboni da Luz](https://www.linkedin.com/in/carlos-zamboni-546086266/)  
-📌 **Repositório GitHub**: [AutomacaoPython](https://github.com/CarlosZambonii/AutomacaoPython.git)  
+📌 **Repositório GitHub**: [AutomacaoComPython](https://github.com/CarlosZambonii/AutomacaoComPython)  
